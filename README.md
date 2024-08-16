@@ -19,17 +19,3 @@ The Web Gym landing page is built to provide an engaging and informative online 
 
 ![Landing Page Screenshot](https://res.cloudinary.com/dr8csfvlj/image/upload/v1723833680/image_2024-08-17_001115927_ztvul0.png)
 
-## 📂 Project Structure
-
-```bash
-web-gym-landing-page/
-│
-├── index.html            # Main HTML file
-├── styles/
-│   ├── main.css          # Main CSS file
-│   └── responsive.css    # CSS for responsive design
-├── scripts/
-│   ├── main.js           # Main JavaScript file
-│   └── form-handler.js   # Script for form validation and handling
-├── images/               # Folder containing images used in the project
-└── README.md             # This README file
